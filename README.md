@@ -4,7 +4,7 @@ Bem-vindo(a) ao repositório oficial da **Trilha de Redes**!
 
 Este é o espaço dedicado a armazenar todo o material de apoio da nossa série do YouTube. Aqui você encontrará tudo o que precisa para replicar os laboratórios, testar configurações e aprofundar seus conhecimentos em infraestrutura de redes.
 
-📺 **Acompanhe as aulas no YouTube:** [Canal Comunidade TechPoint](https://www.youtube.com/@ComunidadeTechPoint)
+📺 **Acompanhe no YouTube:** [Canal Comunidade TechPoint](https://www.youtube.com/@ComunidadeTechPoint)
 
 ---
 
