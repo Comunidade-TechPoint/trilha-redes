@@ -24,4 +24,4 @@ Organizamos este repositório para facilitar os seus estudos. Os materiais estã
 Para baixar todos os arquivos para a sua máquina e começar a praticar, você pode clonar este repositório usando o Git:
 
 ```bash
-git clone [https://github.com/Comunidade-TechPoint/trilha-de-redes.git](https://github.com/Comunidade-TechPoint/trilha-de-redes.git)
+git clone https://github.com/Comunidade-TechPoint/trilha-de-redes.git
